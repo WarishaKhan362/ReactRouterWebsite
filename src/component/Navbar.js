@@ -18,9 +18,7 @@ export default function Navbar() {
         {/* <li className="nav-item">
           <Link className="nav-Link active" aria-current="page" to="/">Home</Link>
         </li> */}
-        <li className="nav-item mx-2">
-          <Link className="nav-Link active text-secondary text-decoration-none " to="/services">Services</Link>
-        </li>
+        
         <li className="nav-item mx-2">
           <Link className="nav-Link active text-secondary text-decoration-none" to="/bike">Bikes</Link>
         </li>

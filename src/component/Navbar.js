@@ -8,7 +8,7 @@ export default function Navbar() {
           
   <div className="container-fluid">
      
-    <a className="navbar-brand row1 text-danger shadow-lg p-1 mb-1  fw-bold  " href="#"> MY IMAGE GALLERY</a>
+    <a className="navbar-brand row1 text-danger shadow-lg p-1 mb-1  fw-bold  " href="/"> MY IMAGE GALLERY</a>
 
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>

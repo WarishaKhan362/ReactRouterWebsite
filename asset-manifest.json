@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ReactRouterWebsite/static/css/main.5e424397.css",
+    "main.js": "/ReactRouterWebsite/static/js/main.7e9d2cd6.js",
+    "static/js/787.bb2660d1.chunk.js": "/ReactRouterWebsite/static/js/787.bb2660d1.chunk.js",
+    "static/media/bike4.jpg": "/ReactRouterWebsite/static/media/bike4.65de6f930496e8240173.jpg",
+    "static/media/bike5.jpg": "/ReactRouterWebsite/static/media/bike5.52142f66f1e613b2d1ee.jpg",
+    "static/media/bike6.jpg": "/ReactRouterWebsite/static/media/bike6.d28ba6fac9ba3ee8c9ed.jpg",
+    "static/media/festival1.jpg": "/ReactRouterWebsite/static/media/festival1.e7d3de9efc8e996c2cc0.jpg",
+    "static/media/festival2.jpg": "/ReactRouterWebsite/static/media/festival2.5d091d116e69094f8e96.jpg",
+    "static/media/Festival.jpg": "/ReactRouterWebsite/static/media/Festival.c2dc0524a325364af4ba.jpg",
+    "static/media/festival5.jpg": "/ReactRouterWebsite/static/media/festival5.b21e4f5f706714dccbc7.jpg",
+    "static/media/car5.jpg": "/ReactRouterWebsite/static/media/car5.6c20badb180f2644af68.jpg",
+    "static/media/festival4.jpg": "/ReactRouterWebsite/static/media/festival4.22b3dee1f8b9560f3fe3.jpg",
+    "static/media/bike2.jpg": "/ReactRouterWebsite/static/media/bike2.a55a4327bf99cb9cd3e8.jpg",
+    "static/media/festival3.jpg": "/ReactRouterWebsite/static/media/festival3.9e9e3bf715650114c292.jpg",
+    "static/media/logo.svg": "/ReactRouterWebsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ReactRouterWebsite/index.html",
+    "main.5e424397.css.map": "/ReactRouterWebsite/static/css/main.5e424397.css.map",
+    "main.7e9d2cd6.js.map": "/ReactRouterWebsite/static/js/main.7e9d2cd6.js.map",
+    "787.bb2660d1.chunk.js.map": "/ReactRouterWebsite/static/js/787.bb2660d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e424397.css",
+    "static/js/main.7e9d2cd6.js"
+  ]
+}
